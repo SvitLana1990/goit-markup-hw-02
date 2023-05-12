@@ -104,9 +104,9 @@ body {
 }
 
 .hero-btn:hover,
-hero-btn:focus {
+.hero-btn:focus {
     background: #404BBF;
-    color: var(--background-color);
+    color: #FFFFFF;
 }
 
 .hero-button {
